@@ -21,7 +21,7 @@
   - 20200831：增强稳定性
   - 20200827：增加打卡失败重试功能，增加License
   - 20200826：为配合学校最新规定，切换至Github Actions实现一天三次打卡
- 
+
 ## 使用方法
 
 -2. **请自行修改report.yml，以适配自身需求。fork后原始的report.yml有两条python命令可以给两人打卡，如不需要请删除第二个以免一直报错。**
@@ -109,3 +109,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+​     
